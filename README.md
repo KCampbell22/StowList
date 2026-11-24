@@ -9,13 +9,15 @@ box's contents, ready to add, edit or remove items. You can also search every bo
 
 **Live app:** https://stowlist-kadecampbell.netlify.app
 
-<!-- Add screenshots to docs/screenshots/ with these names (or change the paths below). -->
+<!-- TODO: add docs/screenshots/scan-to-box.gif (phone recording of scanning a label) and put it first:
+  <img src="docs/screenshots/scan-to-box.gif" alt="Scanning a printed QR label with a phone opens that box's list of items" width="260">
+-->
 <p align="center">
-  <img src="docs/screenshots/scan-to-box.gif" alt="Scanning a printed QR label with a phone opens that box's list of items" width="280">
+  <img src="docs/screenshots/home.png" alt="Home screen listing boxes with their locations and item counts, and a search box" width="260">
   &nbsp;
-  <img src="docs/screenshots/box-page.png" alt="A box page listing items with photos and quantities" width="280">
+  <img src="docs/screenshots/box-page.png" alt="A box page listing items with quantities and a photo, and the box's QR label" width="260">
   &nbsp;
-  <img src="docs/screenshots/labels-page.png" alt="A sheet of printable blank QR labels" width="280">
+  <img src="docs/screenshots/labels-page.png" alt="The labels page with labels already on boxes and a sheet of blank QR labels" width="260">
 </p>
 
 ## Features
