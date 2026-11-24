@@ -1,0 +1,4 @@
+# Let search engines index the public pages (sign in / sign up).
+# Everything else needs an account, so there's nothing more for them to see.
+User-agent: *
+Allow: /

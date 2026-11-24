@@ -1,0 +1,2 @@
+# Netlify: send every path to the React app so /box/... and /q/... links work
+/*    /index.html    200
